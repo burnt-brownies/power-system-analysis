@@ -1,0 +1,19 @@
+# MATLAB autosave/backup files
+*.asv
+*.m~
+*.autosave
+
+# MAT-files (unless you want to version data)
+*.mat
+
+# Simulink (if unused, harmless to keep)
+slprj/
+*.slxc
+
+# OS junk
+.DS_Store
+Thumbs.db
+
+# Editor/IDE
+.vscode/
+*.swp
