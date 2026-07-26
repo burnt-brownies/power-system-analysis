@@ -1,4 +1,4 @@
-%% EXPERIMENT 5 - Formation of the Jacobian Matrix (Newton-Raphson Load Flow)
+% EXPERIMENT 5 - Formation of the Jacobian Matrix (Newton-Raphson Load Flow)
 % Requires: y_bus_formulation.m (in the same folder / on the path)
 clc; clear;
 
